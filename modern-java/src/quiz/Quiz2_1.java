@@ -9,6 +9,9 @@ import java.util.List;
 
 import static quiz.Color.*;
 
+/**
+ * 다양한 방법으로 문자열을 생성할 수 있도록 파라미터화된 prettyPrintApple 메서드 구현하기
+ */
 public class Quiz2_1 {
 
     public static void main(String[] args) {
