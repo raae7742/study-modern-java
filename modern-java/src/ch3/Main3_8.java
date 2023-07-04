@@ -1,14 +1,14 @@
-package content;
+package ch3;
 
-import quiz.Apple;
+import ch2.Apple;
 
 import java.util.ArrayList;import java.util.List;
 import java.util.function.Function;
 import java.util.function.Predicate;
 
 import static java.util.Comparator.*;
-import static quiz.Color.GREEN;
-import static quiz.Color.RED;
+import static ch2.Color.GREEN;
+import static ch2.Color.RED;
 
 public class Main3_8 {
     static List<Apple> inventory = new ArrayList<>();
