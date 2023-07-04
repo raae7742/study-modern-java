@@ -1,4 +1,4 @@
-package ch5;
+package ch5.main;
 
 import ch4.Dish;
 
@@ -6,13 +6,12 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
-import static ch5.Main5_1.*;
 import static java.util.stream.Collectors.*;
 
 public class Main5_3 {
 
     private static void map() {
-        List<Integer> dishNames = menu.stream()
+        List<Integer> dishNames = Main5_1.menu.stream()
                 .map(Dish::getName)
                 .map(String::length)
                 .collect(toList());

@@ -1,6 +1,7 @@
-package ch5;
+package ch5.quiz;
 
 import ch4.Dish;
+import ch5.main.Main5_1;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,4 @@
-package ch5;
+package ch5.main;
 
 import ch4.Dish;
 

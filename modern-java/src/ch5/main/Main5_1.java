@@ -1,4 +1,4 @@
-package ch5;
+package ch5.main;
 
 import ch4.Dish;
 
@@ -9,7 +9,7 @@ import java.util.List;
 import static java.util.stream.Collectors.*;
 
 public class Main5_1 {
-    static List<Dish> menu = new ArrayList<>();
+    public static List<Dish> menu = new ArrayList<>();
 
     public static void main(String[] args) {
         menu = Arrays.asList(
