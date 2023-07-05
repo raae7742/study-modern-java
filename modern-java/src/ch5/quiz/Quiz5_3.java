@@ -1,8 +1,5 @@
 package ch5.quiz;
 
-
-import ch5.main.Main5_1;
-
 import java.util.Optional;
 
 import static ch5.main.Main5_1.*;
