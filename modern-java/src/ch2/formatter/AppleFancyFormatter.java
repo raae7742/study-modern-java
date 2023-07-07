@@ -1,6 +1,5 @@
-package quiz.formatter;
-
-import quiz.Apple;
+package ch2.formatter;
+import ch2.Apple;
 
 public class AppleFancyFormatter implements AppleFormatter {
     @Override

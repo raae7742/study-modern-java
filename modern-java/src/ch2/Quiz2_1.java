@@ -1,13 +1,13 @@
-package quiz;
+package ch2;
 
-import quiz.formatter.AppleFancyFormatter;
-import quiz.formatter.AppleFormatter;
-import quiz.formatter.AppleSimpleFormatter;
+import ch2.formatter.AppleFancyFormatter;
+import ch2.formatter.AppleFormatter;
+import ch2.formatter.AppleSimpleFormatter;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static quiz.Color.*;
+import static ch2.Color.*;
 
 /**
  * 다양한 방법으로 문자열을 생성할 수 있도록 파라미터화된 prettyPrintApple 메서드 구현하기

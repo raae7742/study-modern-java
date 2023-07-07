@@ -1,4 +1,4 @@
-package quiz;
+package ch2;
 
 public class Apple {
     private int weight;

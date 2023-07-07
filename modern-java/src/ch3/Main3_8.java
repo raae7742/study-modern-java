@@ -1,5 +1,6 @@
 package ch3;
 
+
 import ch2.Apple;
 
 import java.util.ArrayList;import java.util.List;
@@ -7,8 +8,7 @@ import java.util.function.Function;
 import java.util.function.Predicate;
 
 import static java.util.Comparator.*;
-import static ch2.Color.GREEN;
-import static ch2.Color.RED;
+import static ch2.Color.*;
 
 public class Main3_8 {
     static List<Apple> inventory = new ArrayList<>();
