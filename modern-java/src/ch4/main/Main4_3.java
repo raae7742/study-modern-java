@@ -1,4 +1,6 @@
-package ch4;
+package ch4.main;
+
+import ch4.Dish;
 
 import java.util.ArrayList;
 import java.util.Arrays;

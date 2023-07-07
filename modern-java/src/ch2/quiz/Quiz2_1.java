@@ -1,5 +1,6 @@
-package ch2;
+package ch2.quiz;
 
+import ch2.Apple;
 import ch2.formatter.AppleFancyFormatter;
 import ch2.formatter.AppleFormatter;
 import ch2.formatter.AppleSimpleFormatter;

@@ -1,6 +1,6 @@
 package ch6;
 
-import static ch6.Main6_6.partitionPrimesWithCustomCollector1;
+import static ch6.main.Main6_6.partitionPrimesWithCustomCollector1;
 
 public class CollectorHarness {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package ch6;
+package ch6.collector;
 
 import java.util.*;
 import java.util.function.BiConsumer;
@@ -7,7 +7,7 @@ import java.util.function.Function;
 import java.util.function.Supplier;
 import java.util.stream.Collector;
 
-import static ch6.Main6_6.isPrime;
+import static ch6.main.Main6_6.isPrime;
 import static java.util.stream.Collector.Characteristics.*;
 
 public class PrimeNumbersCollector

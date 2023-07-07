@@ -1,4 +1,6 @@
-package ch6;
+package ch6.main;
+
+import ch6.collector.PrimeNumbersCollector;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -35,7 +37,5 @@ public class Main6_6 {
                             map1.get(true).addAll(map2.get(true));
                             map1.get(false).addAll(map2.get(false));
                         });
-                }
     }
-
 }

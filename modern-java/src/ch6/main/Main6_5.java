@@ -1,6 +1,7 @@
-package ch6;
+package ch6.main;
 
 import ch4.Dish;
+import ch6.collector.ToListCollector;
 
 import java.util.ArrayList;
 import java.util.List;

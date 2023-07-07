@@ -1,4 +1,4 @@
-package ch6;
+package ch6.collector;
 
 import java.util.*;
 import java.util.function.BiConsumer;
